@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Stencil Router Workshop",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "bassettsj",
+    "githubRepository": "stencil-router-workshop-presentation"
+  }
+}
